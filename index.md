@@ -1,4 +1,4 @@
-## Welcome to GitHub Page
+## Welcome To Butter Head's Homepage!
 
 You can use the [editor on GitHub](https://github.com/TheSnailKing/butterhead.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
